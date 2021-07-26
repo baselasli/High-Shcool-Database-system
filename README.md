@@ -1,3 +1,11 @@
+# Datebase Diagram
+This diagram  simulates a system for a High School.
+
+* ER diagram 
+ 
+
+
+
 
 ER diagram and mapping for High school database system
 Documentation:-
