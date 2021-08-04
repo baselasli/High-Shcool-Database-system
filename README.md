@@ -17,15 +17,8 @@ Documentation part talking about the diagram
 
 The ER diagram shows each table, its associated properties, and its relationship to other tables
 * Mapping
-[mapping (1).pdf](https://github.com/baselasli/High-Shcool-Database-system/files/6930882/mapping.1.pdf)
+[mapping 2(1).pdf](https://github.com/baselasli/High-Shcool-Database-system/files/6930887/mapping.2.1.pdf)
 
 
 
 
-ER diagram and mapping for High school database system
-Documentation:-
-Each table shows its attributes and contains a simplified explanation of relationships
-ER-diagram:-
-for a system in a High-school to organize students and save their data
-Mapping:-
-It shows the relationship between each table and the other.
