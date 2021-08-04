@@ -22,6 +22,3 @@ For open and create a new diagram download Edraw Max application.
  Edraw Max this application to create a diagrams.
  # Download link
  https://www.edrawsoft.com/edraw-max/?ad=sl3&gclid=CjwKCAjwuvmHBhAxEiwAWAYj-IVCLTm0rcV04uces5DWLQl3lAqsebcklHHm_QA_ALRTh7NVlT8iJxoCOvEQAvD_BwE
-
-
-https://github.com/baselasli/High-Shcool-Database-system.git
