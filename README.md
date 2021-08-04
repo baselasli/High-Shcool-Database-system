@@ -10,6 +10,8 @@ For open and create a new diagram download Edraw Max application.
 
 # Diagram parts
 * The diagram have three parts
+* Introduction
+Our Project talking about high school that include all employees that work in this high school and the services that provide to the environment of this school .Also it include the relation between education institution and students.
 * Documentation
 Documentation part talking about the diagram
 * ER diagram 
