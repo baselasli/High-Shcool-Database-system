@@ -1,6 +1,3 @@
-# Datebase Diagram
-
-
 # Diagram parts
 * Introduction
 
@@ -16,7 +13,7 @@ The ER diagram shows each table, its associated properties, and its relationship
 * Mapping
 [mapping 2(1).pdf](https://github.com/baselasli/High-Shcool-Database-system/files/6930887/mapping.2.1.pdf)
 
-
+# Datebase Diagram
 This diagram  simulates a system for a High School.
 For open and create a new diagram download Edraw Max application.
 
