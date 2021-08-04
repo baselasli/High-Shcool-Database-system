@@ -17,6 +17,7 @@ Documentation part talking about the diagram
 
 The ER diagram shows each table, its associated properties, and its relationship to other tables
 * Mapping
+[mapping (1).pdf](https://github.com/baselasli/High-Shcool-Database-system/files/6930882/mapping.1.pdf)
 
 
 
