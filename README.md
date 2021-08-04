@@ -13,6 +13,7 @@ For open and create a new diagram download Edraw Max application.
 * Documentation
 Documentation part talking about the diagram
 * ER diagram 
+
 ![Capture](https://user-images.githubusercontent.com/80223613/128171932-686db381-2dfb-4263-aa8e-c9676ecc4560.PNG)
 
 The ER diagram shows each table, its associated properties, and its relationship to other tables
