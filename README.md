@@ -1,7 +1,8 @@
 # Diagram parts
 * Introduction
 
-Our Project talking about high school that include all employees that work in this high school and the services that provide to the environment of this school .Also it include the relation between education institution and students.
+Our project models a high school, which includes all staff and the services thereof. Also, it models the relation between education institutions and students.
+
 * Documentation
 
 Documentation part talking about the diagram more expansively
